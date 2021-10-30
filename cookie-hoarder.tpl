@@ -137,7 +137,8 @@ ___TEMPLATE_PARAMETERS___
         "type": "CHECKBOX",
         "name": "sourceHistoryOption",
         "checkboxText": "Append new source information to sourceHistory cookie",
-        "simpleValueType": true
+        "simpleValueType": true,
+        "defaultValue": true
       }
     ]
   }
